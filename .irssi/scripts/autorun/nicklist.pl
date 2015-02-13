@@ -1,0 +1,1 @@
+/home/olivier/.irssi/scripts/nicklist.pl

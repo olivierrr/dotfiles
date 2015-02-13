@@ -1,0 +1,12 @@
+[user]
+  name = Olivier Palta
+  email = oliviersinbox@gmail.com
+
+[github]
+  user = olivierrr
+
+[core]
+  editor = vim
+
+[diff]
+  tool = vimdiff
