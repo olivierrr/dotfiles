@@ -80,6 +80,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Aliases
 
-# copy/paste to x clipboard
+# copy/paste to sys clipboard
 alias c="xclip -selection clipboard"
 alias p="xclip -o -selection clipboard"
