@@ -4,6 +4,9 @@ set background=dark
 " Pathogen
 execute pathogen#infect()
 
+" Use sys clipboard by deafult
+set clipboard=unnamedplus
+
 " yup
 syntax enable
 filetype plugin indent on
