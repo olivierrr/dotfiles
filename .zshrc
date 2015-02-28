@@ -83,3 +83,9 @@ source $ZSH/oh-my-zsh.sh
 # copy/paste to sys clipboard
 alias c="xclip -selection clipboard"
 alias p="xclip -o -selection clipboard"
+
+# gh gist
+alias gg="gist -p --no-open"
+
+# htop
+alias htop="htop --delay=1"
